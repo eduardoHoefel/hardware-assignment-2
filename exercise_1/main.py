@@ -1,3 +1,11 @@
+
+'''
+Bram Thijssen
+s4308905
+Eduardo Hoefel
+s1043186
+'''
+
 import scipy.io as sio
 import numpy as np
 from matplotlib import pyplot as plt
